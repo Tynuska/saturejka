@@ -17,3 +17,10 @@ h2 {
 .background {
   background-color: lavenderblush;
 }
+
+.container {
+  background-color: white;
+  width: 600px;
+  margin: 0 auto;
+  padding: 15px;
+}
